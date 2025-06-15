@@ -1,3 +1,0 @@
-pip install pyautogui
-pip install customtkinter
-pip install opencv-python
