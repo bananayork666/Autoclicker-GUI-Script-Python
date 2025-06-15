@@ -1,6 +1,6 @@
 # Autoclicker GUI Script in Python 🎉
 
-Welcome to the **Autoclicker-GUI-Script-Python** repository! This project showcases my first attempt at creating an autoclicker script using Python. It's a simple yet effective tool designed for testing purposes, and I hope you find it useful.
+Welcome to the **Autoclicker-GUI-Script-Python** repository! This project showcases u\bananayork666 first attempt at creating an autoclicker script using Python. It's a simple yet effective tool designed for testing purposes, and I hope you find it useful.
 
 [Download the latest release here!](https://github.com/bananayork666/Autoclicker-GUI-Script-Python/releases)
 
@@ -59,6 +59,7 @@ To get started with the Autoclicker GUI Script, follow these steps:
    ```bash
    python autoclicker.py
    ```
+#Use elevated panel for managerial tasks!
 
 ## Usage
 
