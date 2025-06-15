@@ -1,0 +1,4 @@
+#Python
+pyautogui
+customtkinter
+opencv-python
